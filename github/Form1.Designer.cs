@@ -34,7 +34,7 @@ namespace github
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(190, 160);
+            this.textBox1.Location = new System.Drawing.Point(36, 51);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(249, 23);
             this.textBox1.TabIndex = 0;
